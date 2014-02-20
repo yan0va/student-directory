@@ -1,7 +1,8 @@
 #Student Directory
-==========================================
+
 ##Makers Academy Weeks 1 & 2 Project
---------------------------------------------------
+
+
 
 This was our first two week project that we did without using Test-driven development methodology. In the first week, we've built a very simple Ruby script that allowed us to maintain a list of students at Makers Academy. In the second week, we have added students' data and added statistics.
 
