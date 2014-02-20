@@ -1,3 +1,5 @@
+puts "The students of my cohort at Makers Academy"
+puts "-------------"
 puts "Mario Gintili"
 puts "Mikhail Dubov"
 puts "Karolis Noreika"
