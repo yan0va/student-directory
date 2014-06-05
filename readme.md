@@ -32,6 +32,10 @@ The student directory script allows you to manage the list of students enrolled 
 ruby directory.rb
 ```
 
+###Technologies used
+
+* Ruby
+
 ###Other details
 
 This project was set by [Evgeny Shadchnev](https://github.com/shadchnev)
