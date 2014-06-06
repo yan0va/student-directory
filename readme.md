@@ -34,7 +34,7 @@ ruby directory.rb
 
 ###Technologies used
 
-* Ruby
+Ruby
 
 ###Other details
 
